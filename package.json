@@ -51,5 +51,12 @@
 			"last 1 firefox version",
 			"last 1 safari version"
 		]
+	},
+	"autoprefixer": {
+		"overrideBrowserslist": [
+			"last 2 versions",
+			"> 1%",
+			"IE 11"
+		]
 	}
 }
